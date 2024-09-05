@@ -1,0 +1,7 @@
+
+ultralytics
+opencv-python-headless
+numpy
+deep-sort-realtime
+opencv-python
+torch
