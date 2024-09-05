@@ -1,0 +1,32 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore model weights (like YOLOv8 weights)
+*.pt
+
+# Ignore video files (optional, if you don't want to include output videos in the repo)
+*.mp4
+*.avi
+*.mov
+
+# Ignore any large files or logs
+*.log
+*.csv
+*.json
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files (e.g., for Visual Studio Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
