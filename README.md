@@ -45,7 +45,7 @@ The YOLOv8 model is used to detect people in each frame of the video. Here's how
 
 2. **Bounding Box Predictions:** YOLOv8 outputs bounding boxes, confidence scores, and class labels. A bounding box is a rectangular box that surrounds a detected object (in this case, people). The class label for people is `0` (class `0` represents the "person" category).
 
-3. **Filtering Predictions:** The model may detect various objects, but we are only interested in people. Therefore, we filter out any object whose class is not "person" (class `0`). Additionally, we filter out detections with a confidence score lower than `0.7` to reduce false posites.
+3. **Filtering Predictions:** The model may detect various objects, but we are only interested in people. Therefore, we filter out any object whose class is not "person" (class `0`). Additionally, we filter out detections with a confidence score lower than `0.7` to reduce false positives.
    - __Bounding Box Coordinates:__ Each bounding box is represented by four values (x1, y1, x2, y2), which define the top-left and bottom-right corners of the box.
    - __Confidence Score:__ This is a value between 0 and 1 indicating how confident the model is that the object detected is a person.
   
