@@ -6,7 +6,7 @@
 
 
 
-2. View both the __input__ and __output__ videos in the provided link. 
+2. View both the __input__ and __output__ videos in the provided link without Download. 
   - **Sample_videos 1**: [__Link-1__](https://drive.google.com/drive/folders/1bgwKqoHGlCDRtSHb_Iz0hki-fK0ubZP0?usp=sharing)
   - **Sample_videos 2**: [__Link-2__](https://drive.google.com/drive/folders/1NHNISCWkCzUSjmNzHES_BKqkcs97RsBY?usp=sharing)
 
