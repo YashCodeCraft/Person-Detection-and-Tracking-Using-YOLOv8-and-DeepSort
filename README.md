@@ -120,4 +120,13 @@ You can find the test input and output videos in the `test_outputs/` folder.
 - **Download Output Video 1**: [output_video_1.mp4](test_outputs/sample_1_output.mp4)
 - **Download Output Video 2**: [output_video_2.mp4](test_outputs/sample_2_output.mp4)
 - **Video Links**: [Link](test_outputs/Sample_outputs_link.md)
-  
+
+### Screenshots
+Screenshots of the predicted bounding boxes and unique IDs:
+
+![Screenshot 1](https://github.com/user-attachments/assets/e8c3fe40-2a22-48f0-8886-cc393a046268)
+
+
+![Screenshot 2](https://github.com/user-attachments/assets/b90e1414-0ffb-4315-bcb0-9528abe9126c)
+
+ 
